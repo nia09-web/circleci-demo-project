@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Pytest cache
+.cache/
+
+# VSCode settings (optional)
+.vscode/
+
+# CircleCI local builds (optional)
+.circleci-local/
+
+# macOS/Linux hidden files (optional)
+.DS_Store
+Thumbs.db
+
+# Logs (optional)
+*.log
